@@ -7,7 +7,7 @@ The **encrypt-text** package is a simple npm package for text encryption and dec
 You can install the **encrypt-text** package in your Node.js project using npm:
 
 ```bash
-npm install encrypt-text
+npm install text-encryption-service
 ```
 
 ## Usage
